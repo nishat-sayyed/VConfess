@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Temporary\\VConfess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_list_white_24dp.png",
+        "source": "E:\\Temporary\\VConfess\\app\\src\\main\\res\\drawable-xxhdpi\\ic_list_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Temporary\\VConfess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_person_white_24dp.png",
+        "source": "E:\\Temporary\\VConfess\\app\\src\\main\\res\\drawable-xxhdpi\\ic_person_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Temporary\\VConfess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_done_white_24dp.png",
+        "source": "E:\\Temporary\\VConfess\\app\\src\\main\\res\\drawable-xxhdpi\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Temporary\\VConfess\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_create_white_24dp.png",
+        "source": "E:\\Temporary\\VConfess\\app\\src\\main\\res\\drawable-xxhdpi\\ic_create_white_24dp.png"
+    }
+]

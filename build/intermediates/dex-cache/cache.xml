@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nishat\.android\build-cache\841822ba1e0f8d314b09b50fd286ca3fbeb10d20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7103df9f8ca6e66946c35fe23ce655ee4044db86">
+        <dex dex="E:\Temporary\VConfess\app\build\intermediates\pre-dexed\debug\classes_a62e2c079e07512ad550b58540ba1c6248657195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nishat\.gradle\caches\modules-2\files-2.1\org.ocpsoft.prettytime\prettytime\4.0.1.Final\5537d74e2102a82fd937dd9b8a652e3b26026a7a\prettytime-4.0.1.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5537d74e2102a82fd937dd9b8a652e3b26026a7a">
+        <dex dex="E:\Temporary\VConfess\app\build\intermediates\pre-dexed\debug\prettytime-4.0.1.Final_961adc6b1e747122f7da895898fa543b59b1ebb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nishat\.android\build-cache\4c5d3159f52568be65966e2595846c3c303c936e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="deffdc3b7ba352c6b726c7b0577c2d0af2e0b291">
+        <dex dex="E:\Temporary\VConfess\app\build\intermediates\pre-dexed\debug\classes_08303cff9a9f069109e9c6943de35a5566998e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nishat\.android\build-cache\ec1e3c8c09a2636697c6cb2b50ab639e8b6529d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9cbdabba632cbf8be001cdbf34110cf42a64015">
+        <dex dex="E:\Temporary\VConfess\app\build\intermediates\pre-dexed\debug\classes_58aaabfaa50e6119997e396a38c3e50e3b8dcd32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nishat\.android\build-cache\7686ad95f0631735baa3b94bfab88ba1b63d43d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88603d734296fa77a252c0199b57f4aba85ba277">
+        <dex dex="E:\Temporary\VConfess\app\build\intermediates\pre-dexed\debug\classes_cc13565195603bf346847b567039bd6835c61e98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nishat\.android\build-cache\eff25ee91821d9ea023390da8fe3b9f1b5a42e91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\Temporary\VConfess\app\build\intermediates\pre-dexed\debug\classes_30e19fc11774a2d1ee80050a0169c63f5c182762.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,33 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context="com.nishat.vconfess.fragments.AllConfessionsFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/allConfessionsRecyclerView"/>
+
+    <TextView
+        android:id="@+id/noConfessionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="24sp"
+        android:visibility="gone"
+        android:text="@string/no_one_has_confessed_yet"/>
+
+    <TextView
+        android:id="@+id/noFilterResultsTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="24sp"
+        android:visibility="gone"
+        android:text="@string/no_filter_results_for_this_tag"/>
+
+</RelativeLayout>

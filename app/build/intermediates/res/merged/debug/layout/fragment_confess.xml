@@ -1,0 +1,45 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/confessCoordinatorLayout"
+    tools:context="com.nishat.vconfess.ui.UserMainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+        <Spinner
+            android:id="@+id/confessionTypeSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:minHeight="30dp"
+            android:paddingLeft="16dp"
+            android:prompt="@string/confession_type"
+            />
+
+        <EditText
+            android:id="@+id/confessionEditText"
+            android:layout_width="match_parent"
+            android:gravity="top"
+            android:textSize="28sp"
+            android:textStyle="italic"
+            android:background="@android:color/transparent"
+            android:hint="@string/i_confess_that"
+            android:layout_height="match_parent"
+            android:padding="16dp" />
+
+    </LinearLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:src="@drawable/ic_done_white_24dp"
+        android:id="@+id/addConfessionButton"
+        android:layout_margin="16dp"/>
+</android.support.design.widget.CoordinatorLayout>

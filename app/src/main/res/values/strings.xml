@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">VConfess</string>
+    <string name="app_intro">App Intro</string>
+
+    <string name="department">Department</string>
+    <string name="inft">INFT</string>
+    <string name="cs">CS</string>
+    <string name="extc">EXTC</string>
+    <string name="etrx">ETRX</string>
+    <string name="year">Year</string>
+    <string name="fe">FE</string>
+    <string name="se">SE</string>
+    <string name="te">TE</string>
+    <string name="be">BE</string>
+    <string name="division">Division</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="confession_type">Confession Type</string>
+    <string name="log_out">Log Out</string>
+    <string name="sign_out">Sign out</string>
+
+    <string name="no_one_has_confessed_yet">No one has confessed yet</string>
+    <string name="filter">Filter</string>
+    <string name="no_filter_results_for_this_tag">No filter results for this tag</string>
+    <string name="you_hava_not_confessed_yet">You hava not confessed yet</string>
+    <string name="start_confessing">Start confessing</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="all_confessions">All Confessions</string>
+    <string name="confess">Confess</string>
+    <string name="profile">Profile</string>
+    <string name="i_confess_that">I confess that...</string>
+
+</resources>
+

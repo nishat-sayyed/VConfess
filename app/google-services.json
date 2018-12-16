@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1058616906462",
+    "firebase_url": "https://vconfess-2218c.firebaseio.com",
+    "project_id": "vconfess-2218c",
+    "storage_bucket": "vconfess-2218c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058616906462:android:eb3873b175c70819",
+        "android_client_info": {
+          "package_name": "com.nishat.vconfess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058616906462-2m3hm0mj67n4linjbec5llu5llerhpdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nishat.vconfess",
+            "certificate_hash": "58ea1d76e63fbedba54bac112c11b0fbc9b65269"
+          }
+        },
+        {
+          "client_id": "1058616906462-692msufr5r3t0fvlgotsmocubpjc60lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9HrnhgH6O_tZNtvpntv0-z5A-rnRvcLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058616906462-692msufr5r3t0fvlgotsmocubpjc60lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

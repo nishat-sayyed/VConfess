@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nishat.vconfess.ui.FilterListActivity">
+
+    <RelativeLayout
+        android:gravity="center"
+        android:padding="32dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/tagEditText"
+            android:hint="TAG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_below="@id/tagEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Another Tag"
+            android:id="@+id/addAnotherTagButton"/>
+
+        <Button
+            android:layout_below="@id/addAnotherTagButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Finish"
+            android:id="@+id/finishButton"/>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

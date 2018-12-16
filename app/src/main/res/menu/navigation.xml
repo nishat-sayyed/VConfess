@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/allConfessions"
+        android:icon="@drawable/ic_list_white_24dp"
+        android:title="@string/all_confessions" />
+
+    <item
+        android:id="@+id/confess"
+        android:icon="@drawable/ic_create_white_24dp"
+        android:title="@string/confess" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person_white_24dp"
+        android:title="@string/profile" />
+
+</menu>
